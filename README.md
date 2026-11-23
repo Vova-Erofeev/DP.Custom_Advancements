@@ -1,4 +1,4 @@
-# [Custom Advancements](https://github.com/Slarof/DP.Custom_Advancements/wiki)
+# [Custom Advancements](https://github.com/Vova-Erofeev/DP.Custom_Advancements/wiki)
 - Добавляет достижения
 - Изменяет ванильные ветки достижений
 - Изменяет ванильные достижения
